@@ -1,2 +1,2 @@
 # This is my first website hosted in GitHub
-## content will go here... 
+visit <https://james3619.github.io/sql/SQL_Server.html>
